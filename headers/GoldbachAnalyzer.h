@@ -12,7 +12,7 @@ private:
     // Checks if the number is one of the small primes excluded from analysis
     bool isSmallExcludedPrime(int x);
 
-    // Checks if the number fits the main generative pattern (6k ± 1)
+    // Checks if the number fits the main generative pattern (6k Â± 1)
     bool isGenerated(int x);
 
     // Finds all prime pairs that sum to the given number
