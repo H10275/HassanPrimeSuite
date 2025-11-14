@@ -1,6 +1,6 @@
 #pragma once
 
-// Check if the number belongs to the main generative pattern (6k ± 1)
+// Check if the number belongs to the main generative pattern (6k Â± 1)
 bool isInMainPattern(int h);
 
 // Check if the number can be expressed as the sum of two prime numbers (Goldbach's conjecture)
